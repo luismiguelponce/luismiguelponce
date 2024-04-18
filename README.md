@@ -15,7 +15,7 @@
 ------
 🎯 Meu objetivo é entrar no ramo de IA's e Learning Machine
 
-<img src="https://images.app.goo.gl/WpeV33xSah2La9N99" width="100px">
+<img src="https://www.pngwing.com/en/free-png-kdkhh"width="100px">
 
 <img src="https://images.app.goo.gl/7Vurer1JFzUJkeEG6" width="100px">
 
