@@ -5,13 +5,21 @@
 <br>
 💬Sou estudante de Sistemas de Informação e Ciência de dados.
 <br>
+<h2>🔗Minhas Redes Sociais🔗
 <br>
+<br>
+  <div>
+  <a href= "https://www.linkedin.com/in/luisponcepinheiro/"><img src = "https://cdn-icons-png.flaticon.com/256/174/174857.png" width="50px"></a>
+  <a href= "https://www.instagram.com/poncemiguelrj"><img src = "https://www.nilopolis.rj.leg.br/instagramlogo.png/image" width="50px"></a>
+  <a href= "https://www.instagram.com/poncemiguelrj"><img src = "https://www.nilopolis.rj.leg.br/instagramlogo.png/image" width="50px"></a>
 
-📬 [Acesse o meu linkedin.](https://www.linkedin.com/in/luisponcepinheiro/)
-
-## Minhas Tecnologias 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="100px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="100px">
-
+    
+### Minhas Tecnologias
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="100px">
+</div>
 ------
 🎯 Meu objetivo é entrar no ramo de IA's e Learning Machine
 
