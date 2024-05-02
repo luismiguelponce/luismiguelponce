@@ -18,8 +18,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="100px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="100px">
-<img src="https://5.imimg.com/data5/SELLER/Default/2023/8/332555419/KY/SH/WD/10150302/power-bi-software-500x500.jpg" width="160px">
 </div>
+<br>
+<h2>💻Software's💻
+<img src="https://5.imimg.com/data5/SELLER/Default/2023/8/332555419/KY/SH/WD/10150302/power-bi-software-500x500.jpg" width="160px">
+
+
+
 <br>
 🎯 Meu objetivo é ter a oportunidade de estagiar no ramo de T.I. pondo a prova meu conhecimento em SQL, MySQL, Python, Power BI e SGBD's já adquirido e evoluir como profissional e pessoa, aprendendo com os profissionais ao redor. 
 <br>
