@@ -21,7 +21,7 @@
 <img src="https://5.imimg.com/data5/SELLER/Default/2023/8/332555419/KY/SH/WD/10150302/power-bi-software-500x500.jpg" width="160px">
 </div>
 <br>
-🎯 Meu objetivo é ter a oportunidade de estagiar no ramo de Data Science e ter oportunidade de estar de frente com desenvolvimento com IA's e Learning Machine.
+🎯 Meu objetivo é ter a oportunidade de estagiar no ramo de T.I. pondo a prova meu conhecimento em SQL, MySQL, Python, Power BI e SGBD's já adquirido e evoluir como profissional e pessoa, aprendendo com os profissionais ao redor. 
 <br>
 <img src="https://datascientest.com/en/wp-content/uploads/sites/9/2021/01/Machine-learning-def-.png" width="480px">
              
