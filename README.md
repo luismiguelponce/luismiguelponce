@@ -24,7 +24,7 @@
 <div>
 <br>
 <img src="https://5.imimg.com/data5/SELLER/Default/2023/8/332555419/KY/SH/WD/10150302/power-bi-software-500x500.jpg" width="160px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg" width= "150px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg">
 <div/>
           
 
