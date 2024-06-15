@@ -3,7 +3,7 @@
 🤖Olá, me chamo Luis Miguel e tenho 19 anos.
 <br>
 <br>
-💬Sou estudante de Sistemas de Informação e Ciência de dados.
+💬Sou estudante de Sistemas de Informação, e estou me especializando em desenvolvimento de banco de dados e aplicativos.
 <br>
 <h2>🔗Minhas Redes Sociais🔗
 <br>
