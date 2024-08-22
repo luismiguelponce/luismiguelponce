@@ -29,5 +29,7 @@
 <div>
   <img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" width="160px">
   <img src="https://5.imimg.com/data5/SELLER/Default/2023/8/332555419/KY/SH/WD/10150302/power-bi-software-500x500.jpg" width="160px">
-  <img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" width="100px">
+  <img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" width="90px">
+  <img src="https://cdn.pixabay.com/photo/2021/01/30/12/15/excel-5963669_960_720.png" width="100px">
+  <img src="https://mailmeteor.com/logos/assets/PNG/Google_Sheets_Logo_512px.png" width="70px">
 </div>
